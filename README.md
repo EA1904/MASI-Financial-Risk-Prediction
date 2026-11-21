@@ -1,6 +1,6 @@
 
 
-# README
+# Prédiction du Risque Financier sur l'Indice MASI (XGBoost)
 
 ## Description du Projet
 Ce projet explore l'utilisation du Machine Learning pour prédire le risque financier de l'indice MASI (Moroccan All Shares Index) de la Bourse de Casablanca. En utilisant des algorithmes avancés comme XGBoost, nous visons à démontrer comment ces outils surpassent les méthodes traditionnelles en termes de précision et de réactivité.
